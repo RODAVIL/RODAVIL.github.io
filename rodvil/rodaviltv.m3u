@@ -41,31 +41,31 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies",Cinemax Latin America
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://170.254.18.106/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.cl3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN (1080p)
+#EXTINF:-1 tvg-id="AXN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN (1080p)
 https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx3" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
 https://bozztv.com/gusa/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Undefined",HBO Plus Latin America
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Undefined",HBO Plus Latin America
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Undefined",HBO Signature Latin America
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Undefined",HBO Signature Latin America
 http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Undefined",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Undefined",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="PlaneaTV.pe3" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="Undefined",Planea TV
+#EXTINF:-1 tvg-id="PlaneaTV.pe" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="Undefined",Planea TV
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe3" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="88Stereo.cr3" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve3" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:-1 tvg-id="TelesurCamana.pe3" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Ilo (720p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
@@ -686,8 +686,7 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-id="AgendaMineraTV.bo" tvg-logo="https://i.imgur.com/hg2PiIn.png" group-title="Business",Agenda Minera TV (720p)
 https://srv.panelcast.net/amitel/amitel/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Outdoor",Agro TV (Apurimac) (720p) [Not 24/7]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entertainment",Aguacate TV (1080p)
@@ -2294,8 +2293,7 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Undefined",Golden Premier (576p)
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
-https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+
 #EXTINF:-1 tvg-id="GraciaTV.cl" tvg-logo="https://i.postimg.cc/VNs1Xz6B/299614369-426056002888660-5252932446607294666-n-removebg-preview.png" group-title="Religious",Gracia TV (1080p) [Not 24/7]
 http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 tvg-id="GSGTV.sv" tvg-logo="https://i.imgur.com/8fZnNu0.png" group-title="Religious",GSG TV (720p)
@@ -2316,12 +2314,9 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Undefined",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Undefined",HBO Plus Latin America
-http://170.254.18.106/HBO_PLUS/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TicaVision.cr" tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="General",HBTV TicaVisión (1080p)
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HCH.hn" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Undefined",HCH (720p) [Not 24/7]
@@ -3159,14 +3154,12 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://vdo2.streamgato.us:3613/live/pinpontvlive.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl" tvg-logo="https://i.imgur.com/lFuwq1K.png" group-title="Undefined",Pintana TV (720p)
 https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="PlaneaTV.pe" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="Undefined",Planea TV
-https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+
 #EXTINF:-1 tvg-id="Planet1009FM.pa" tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Music",Planet 100.9 FM (1080p)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaJuniorTV.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="Kids",Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
-https://live.obslivestream.com/planetatv/index.m3u8
+
 #EXTINF:-1 tvg-id="PlanetaTV90s.cl" tvg-logo="https://i.imgur.com/rtZTw3F.png" group-title="Animation;Entertainment;Movies;Series",PlanetaTV 90s (720p)
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/v5zkh4T.png" group-title="Kids",PlanetaTV Kids (1080p)
@@ -4109,22 +4102,14 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="Undefined",Telesol (TLS) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCG7dtDLsyjkyrfoo5oGtcXw.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+
 #EXTINF:-1 tvg-id="TelesurCanal10.do" tvg-logo="https://i.imgur.com/qsxaOFq.png" group-title="Undefined",Telesur Canal 10 (720p)
 https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="Undefined",TeleSUR Costa Rica (720p) [Not 24/7]
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Ilo (720p) [Not 24/7]
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Mollendo (240p) [Not 24/7]
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Moquegua (360p) [Not 24/7]
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="General",Telesur Tacna (720p) [Not 24/7]
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+
+
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Undefined",Teletica 7 (720p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://bradmax.com
 https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
