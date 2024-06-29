@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Willax"  group-title="sport", Willax(720p)
+https://live-c.cf.dmcdn.net/sec2(SP7mFcZNWEqGuGNbt8WzVgtqlKF1zWbtG8m3fUV2Y7baE75Sw9yqeVxKFqXg_4VW55jvom1LVLiZ0KAKXSlcSDe0yR0ioSh6wNMo6ej_m7Q)/dm/3/x7x4dgx/s/live-1.m3u8
+
+
 #EXTINF:-1 tvg-id="golperu" tvg-logo="https://i.imgur.com/fnNV8Aa.png" group-title="sport", Gol Peru Movistar (720p)
 https://ssh101-fl.bozztv.com/ssh101/drako12/tracks-v1a1/mono.m3u8
 
